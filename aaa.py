@@ -1,6 +1,7 @@
 yugb,jbj
 uhikhukl
 efge
+<<<<<<< HEAD
 
 jhb,jhbf
 fasergseg
@@ -17,3 +18,5 @@ hbhjbtsreb
 sdbsrtb
 srbsrbts
 bsbrtb
+=======
+>>>>>>> parent of ba4c3b1 (2nd commit)
